@@ -1,0 +1,30 @@
+body
+{
+    background-image: url(/img/BG.jpg.jpg);
+    background-attachment: fixed;
+    background-size: 1400px;
+}
+.headline{
+     color: white;
+}
+.Info{
+    font-size: large;
+    font-style: oblique;
+    color: white;
+}
+.Prakriti{
+    font-style: inherit;
+    font-size: larger;
+}
+.About{
+    color: aliceblue;
+}
+.Prakriti{
+    color: white;
+}
+.main{
+    color: rgb(255, 255, 255);
+}
+.logo{
+    border-bottom-left-radius: 1cm;
+}
